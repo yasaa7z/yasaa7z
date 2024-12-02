@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="center">Hello, I'm Yasa Sadhana. A vocational high school student who likes programming and electronics</h2>
+<h2 align="center">I'm Yasa Sadhana. A vocational high school student who likes programming and electronics</h2>
 
 - 👀 I’m interested in Internet of Things (IoT)
   
